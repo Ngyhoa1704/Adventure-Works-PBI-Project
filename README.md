@@ -74,13 +74,6 @@ The report is structured into multiple pages with slicers and interactions:
 - **What-If Parameters**: Price simulation logic
 - **Relationship Modeling**: Star schema with calendar and lookup tables
 
-## 📎 How to Use
-> ⚠️ This project uses local CSVs and `.pbix` file. For full interaction:
-1. Download the `.pbix` file from this repo (not included here due to size).
-2. Ensure all datasets are placed in the same folder.
-3. Open in Power BI Desktop and refresh data.
-4. Use slicers to explore data by year, product, customer segments, and geography.
-
 ## 🔍 Key Insights
 - Accessories and bikes dominate total orders.
 - Top products include Water Bottle, Mountain Tire Tube, and Sport Helmets.
